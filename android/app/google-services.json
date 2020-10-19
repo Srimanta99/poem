@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346982226849",
+    "firebase_url": "https://poemapp-d85cc.firebaseio.com",
+    "project_id": "poemapp-d85cc",
+    "storage_bucket": "poemapp-d85cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346982226849:android:ce44dbec23cf04b9d5c9e0",
+        "android_client_info": {
+          "package_name": "com.poemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346982226849-ek0fkuqcjnnoabf415mc2h8qre6bf6ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWGlNpAeAmVfv2vkI7VAtB_gSHQzyT1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346982226849-ek0fkuqcjnnoabf415mc2h8qre6bf6ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
